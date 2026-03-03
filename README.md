@@ -3,3 +3,4 @@ Este es un proyecto de la asignatura de Taller de Simulacion de Sistemas, gestio
 
 ## TOMAR NOTA
 Revisar que las dependencias de las librerias, osea los .jar sean cargados automaticamente en las librerias de su carpeta local de visual
+Puede tomar unos cuantos minutos que se cargen y registren en el path los .jar, asi que solo controlen eso

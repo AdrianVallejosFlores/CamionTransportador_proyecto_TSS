@@ -43,9 +43,9 @@ public class MenuTransporterTruck extends JFrame implements ActionListener {
 	
 	private void initLabelParameters() {
 	    String[] texts = {
-	        "                                Numero de corridas:",
-	        "                 Numero de items permitidos:",
-	        "                            Capacidad del camion:"
+	        "                            Numero de corridas:",
+	        "               Numero de items permitidos:",
+	        "                         Capacidad del camion:"
 	    };
 
 	    int posX = this.getWidth() - 650;
